@@ -1,8 +1,8 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "min_installer": "1.2.0",
-  "bundle": "bundles/house-finder-1.2.4.zip",
-  "sha256": "04df75d21b4f21b904c9522a70fcb691e81bec3a5cfa90c14d47f47ef98d2692",
-  "size": 364076,
-  "notes": "yad2 messages can now be sent automatically (Settings: Connect yad2)"
+  "bundle": "bundles/house-finder-1.2.5.zip",
+  "sha256": "820f7574a541cd94231e7edbc2e4b96cfb394154e223c3deec1d5d365a42e09a",
+  "size": 376222,
+  "notes": "Each listing now shows its full ad text (yad2 and Facebook)"
 }
