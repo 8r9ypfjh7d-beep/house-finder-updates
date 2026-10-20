@@ -1,0 +1,8 @@
+{
+  "version": "1.2.0",
+  "min_installer": "1.2.0",
+  "bundle": "bundles/house-finder-1.2.0.zip",
+  "sha256": "013ede7b9b6a08a9c64a1c29a4328f076637b2ca1297bf7c263fa89c5e975e45",
+  "size": 330333,
+  "notes": "Automatic updates are switched on"
+}
