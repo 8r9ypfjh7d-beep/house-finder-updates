@@ -1,8 +1,8 @@
 {
-  "version": "1.2.7",
+  "version": "1.2.8",
   "min_installer": "1.2.0",
-  "bundle": "bundles/house-finder-1.2.7.zip",
-  "sha256": "4fbb0cde373f75ea4c900762ea2b9bbc731a461cfd7b88b7c1a60174f6d17418",
-  "size": 393511,
-  "notes": "Reading windows stay minimized; old daily-limit errors shown calmly"
+  "bundle": "bundles/house-finder-1.2.8.zip",
+  "sha256": "50f5658e09ca1d65a21f720db9d4e5e8d827ef10d60ba7b1beb183846808c4a0",
+  "size": 394155,
+  "notes": "Review has All / yad2 / Facebook tabs"
 }
