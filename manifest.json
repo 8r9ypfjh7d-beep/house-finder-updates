@@ -1,8 +1,8 @@
 {
-  "version": "1.2.5",
+  "version": "1.2.6",
   "min_installer": "1.2.0",
-  "bundle": "bundles/house-finder-1.2.5.zip",
-  "sha256": "820f7574a541cd94231e7edbc2e4b96cfb394154e223c3deec1d5d365a42e09a",
-  "size": 376222,
-  "notes": "Each listing now shows its full ad text (yad2 and Facebook)"
+  "bundle": "bundles/house-finder-1.2.6.zip",
+  "sha256": "1f87f3992b44ca017bcb45f7ca6ebe917b4a2d7494915fdc9a08e81619e49be0",
+  "size": 392729,
+  "notes": "Facebook groups: posts are now read and listed; no more daily-limit errors"
 }
