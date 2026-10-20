@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "min_installer": "1.2.0",
-  "bundle": "bundles/house-finder-1.2.2.zip",
-  "sha256": "44cb044cd855c8f36a572de60262457419c635c8e0164fc3df039ab8d84ef107",
-  "size": 348354,
-  "notes": "Facebook fixes, Approve all, groups you're already in, photo gallery"
+  "bundle": "bundles/house-finder-1.2.3.zip",
+  "sha256": "d8de67c2f0fc8c2b6d6ea0f4711a0f0429007ac700d6a2ce2710615abdf7c0a7",
+  "size": 348824,
+  "notes": "Photo gallery shows one photo at a time (no more stale page style)"
 }
