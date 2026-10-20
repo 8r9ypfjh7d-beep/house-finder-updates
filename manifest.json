@@ -1,8 +1,8 @@
 {
-  "version": "1.2.6",
+  "version": "1.2.7",
   "min_installer": "1.2.0",
-  "bundle": "bundles/house-finder-1.2.6.zip",
-  "sha256": "1f87f3992b44ca017bcb45f7ca6ebe917b4a2d7494915fdc9a08e81619e49be0",
-  "size": 392729,
-  "notes": "Facebook groups: posts are now read and listed; no more daily-limit errors"
+  "bundle": "bundles/house-finder-1.2.7.zip",
+  "sha256": "4fbb0cde373f75ea4c900762ea2b9bbc731a461cfd7b88b7c1a60174f6d17418",
+  "size": 393511,
+  "notes": "Reading windows stay minimized; old daily-limit errors shown calmly"
 }
