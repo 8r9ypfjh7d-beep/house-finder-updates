@@ -1,8 +1,8 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "min_installer": "1.2.0",
-  "bundle": "bundles/house-finder-1.2.3.zip",
-  "sha256": "d8de67c2f0fc8c2b6d6ea0f4711a0f0429007ac700d6a2ce2710615abdf7c0a7",
-  "size": 348824,
-  "notes": "Photo gallery shows one photo at a time (no more stale page style)"
+  "bundle": "bundles/house-finder-1.2.4.zip",
+  "sha256": "04df75d21b4f21b904c9522a70fcb691e81bec3a5cfa90c14d47f47ef98d2692",
+  "size": 364076,
+  "notes": "yad2 messages can now be sent automatically (Settings: Connect yad2)"
 }
