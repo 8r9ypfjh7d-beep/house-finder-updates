@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "min_installer": "1.2.0",
-  "bundle": "bundles/house-finder-1.2.1.zip",
-  "sha256": "ba766b099a5f34d0f526a7eb6ecfa00b67326991507f1ec2f8e06d7b1cb35f7d",
-  "size": 332615,
-  "notes": "The Facebook login window now comes to the front"
+  "bundle": "bundles/house-finder-1.2.2.zip",
+  "sha256": "44cb044cd855c8f36a572de60262457419c635c8e0164fc3df039ab8d84ef107",
+  "size": 348354,
+  "notes": "Facebook fixes, Approve all, groups you're already in, photo gallery"
 }
