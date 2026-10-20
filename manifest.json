@@ -1,8 +1,8 @@
 {
-  "version": "1.2.8",
+  "version": "1.2.9",
   "min_installer": "1.2.0",
-  "bundle": "bundles/house-finder-1.2.8.zip",
-  "sha256": "50f5658e09ca1d65a21f720db9d4e5e8d827ef10d60ba7b1beb183846808c4a0",
-  "size": 394155,
-  "notes": "Review has All / yad2 / Facebook tabs"
+  "bundle": "bundles/house-finder-1.2.9.zip",
+  "sha256": "366025328c2818aa822c7286b9f97141d0d6a2097ee24402cbd90db4c8ca5810",
+  "size": 395414,
+  "notes": "Facebook posts show their real text (no more 'Facebook Facebook...')"
 }
